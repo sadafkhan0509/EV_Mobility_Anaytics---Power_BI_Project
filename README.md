@@ -16,43 +16,55 @@ This dashboard provides a 360° view of customer engagement:
 
 # 🚘 Vehicle Dashboard
 Focused on EV adoption patterns:
--Vehicle registrations by brand, model, and category
--Monthly growth of 2W, 3W, and 4W segments
--Identification of top-performing EV brands and models
+
+- Vehicle registrations by brand, model, and category
+- Monthly growth of 2W, 3W, and 4W segments
+- Identification of top-performing EV brands and models
+
 👉 Useful for **OEM partnerships and demand forecasting.**
 
 # 📱 Device Dashboard
 Tracks user technology preferences:
--Month-wise Android vs iOS registrations
--OS version adoption trends
--Device brand distribution
+
+- Month-wise Android vs iOS registrations
+- OS version adoption trends
+- Device brand distribution
+
 👉 Enables **product teams to prioritize platform optimization.**
 
 # 🛣️ Trip Dashboard
 Analyzes trip behavior and planning efficiency:
--Monthly trip status (completed, ongoing, unsuccessful, saved)
--Trip distance segmentation
--Average distance by vehicle range
+
+- Monthly trip status (completed, ongoing, unsuccessful, saved)
+- Trip distance segmentation
+- Average distance by vehicle range
+
 👉 Helps in improving **route planning, charging coverage, and UX.**
 
 # 🧭 Navigation Dashboard
 Highlights how users interact with charging networks:
--Regular vs trip-based navigation
--Navigation trends by CPO (Charging Point Operator)
--Search behavior across networks
+
+- Regular vs trip-based navigation
+- Navigation trends by CPO (Charging Point Operator)
+- Search behavior across networks
+
 👉 Supports **network performance benchmarking.**
 
 # ✅ Check-in Dashboard
 Monitors on-ground charging success:
--Completed vs failed check-ins
--Monthly check-in trends
--CPO-wise check-in performance
+
+- Completed vs failed check-ins
+- Monthly check-in trends
+- CPO-wise check-in performance
+
 👉 Critical for **operational reliability and partner evaluation.**
 
 # 🔌 CPO Dashboard
 A consolidated network-level view:
--Total chargers & connectors by CPO
--Navigation and check-in contribution by network
+
+- Total chargers & connectors by CPO
+- Navigation and check-in contribution by network
+
 👉 Enables **strategic partnerships and expansion planning.**
 
 # 🛠️ Skills & Features Used

@@ -3,12 +3,15 @@
 I recently designed an end-to-end Power BI dashboard suite covering key aspects of an EV mobility platform.
 📊 Note: The data used here is sample data for demonstration purposes, but the dashboards reflect the same structure, logic, and insights I work on monthly in my role as a Data Analyst.
 
+
 # 📌 Customer Dashboard
 This dashboard provides a 360° view of customer engagement:
--Monthly trends of customer registrations vs vehicle registrations
--State-wise customer distribution
--Weekday-wise registration behavior
--Key KPIs like total customers, trip planners, navigators, and check-ins.
+
+- Monthly trends of customer registrations vs vehicle registrations
+- State-wise customer distribution
+- Weekday-wise registration behavior
+- Key KPIs like total customers, trip planners, navigators, and check-ins.
+  
 👉 Helps business teams understand **who the users are and how they engage.**
 
 # 🚘 Vehicle Dashboard
